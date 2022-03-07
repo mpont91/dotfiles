@@ -1,0 +1,23 @@
+[user]
+	name = Marc Pont
+	email = mpont91@gmail.com
+
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = vim
+	ignorecase = false
+
+[help]
+	autocorrect = 1
+
+[fetch]
+	prune = true
+
+[push]
+	default = simple
+
+[init]
+	defaultBranch = master
+
+[pull]
+	rebase = false

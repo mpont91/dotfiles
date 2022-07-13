@@ -18,6 +18,9 @@ alias nfresh="rm -rf node_modules/ package-lock.json && npm install"
 # Docker
 alias dc="docker-compose"
 
+# Kubernetes
+alias k="kubectl"
+
 # Git
 alias amend="git add . && git commit --amend --no-edit"
 alias commit="git add . && git commit"
